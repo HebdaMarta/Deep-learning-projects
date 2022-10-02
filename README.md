@@ -16,7 +16,7 @@ Develop the best possible CNN model using known techniques based on the CIFAR-10
 
 # GAN_network
 
-Generative adversarial network (GAN) to klasa uczenia maszynowego, w której dwie sieci neuronowe rywalizują ze sobą w grze (w formie gry o sumie zerowej, w której zysk jednego agenta jest stratą innego agenta). A model generates photos similar to photos from the CIFAR-10 set. Generating a specific photo from a given photo category from cifar10: e.g. a frog, an airplane, etc.
+Generative adversarial network (GAN) is a machine learning class where two neural networks compete with each other in a game (in the form of a zero-sum game where the profit of one agent is the loss of another agent). A model generates photos similar to photos from the CIFAR-10 set. Generating a specific photo from a given photo category from cifar10: e.g. a frog, an airplane, etc.
 
 # Image retrieval
 
