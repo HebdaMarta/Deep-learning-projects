@@ -38,6 +38,9 @@ RNN model for text classification from the 20 news database. Before that, the te
 
 Launching the CartPole model based on Deep Q-learning. The result of the work is a movie in mp4 format and gif.
 
+# Pets facial expression classification
+
+This dataset contains 1000 face images of various pets, such as dogs, cats, rabbits, hamsters, sheep, horses, and birds. The images capture the diversity of expressions these animals can display, such as happiness, sadness, anger etc. The dataset was used to train and evaluate ResNet model that can recognize the emotions of pets from their facial expressions. 
 
 
 
